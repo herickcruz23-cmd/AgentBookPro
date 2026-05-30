@@ -1,0 +1,6 @@
+# Renombra este archivo a "keys.properties" y pon tus claves reales aquí.
+# NO subas keys.properties a Git.
+
+OPENAI_API_KEY=sk-pon-aqui-tu-clave-real-de-openai
+SUPABASE_URL=https://tu-proyecto.supabase.co
+SUPABASE_ANON_KEY=eyJ...tu-anon-key
